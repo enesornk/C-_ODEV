@@ -1,0 +1,14 @@
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Programming\PZR17OOP_ODEV\PZR17OOP_ODEV\obj\Debug\net8.0\PZR17OOP_ODEV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Programming\PZR17OOP_ODEV\PZR17OOP_ODEV\obj\Debug\net8.0\PZR17OOP_ODEV.AssemblyInfoInputs.cache
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Programming\PZR17OOP_ODEV\PZR17OOP_ODEV\obj\Debug\net8.0\PZR17OOP_ODEV.AssemblyInfo.cs
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Programming\PZR17OOP_ODEV\PZR17OOP_ODEV\obj\Debug\net8.0\PZR17OOP_ODEV.csproj.CoreCompileInputs.cache
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Programming\PZR17OOP_ODEV\PZR17OOP_ODEV\bin\Debug\net8.0\PZR17OOP_ODEV.exe
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Programming\PZR17OOP_ODEV\PZR17OOP_ODEV\bin\Debug\net8.0\PZR17OOP_ODEV.deps.json
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Programming\PZR17OOP_ODEV\PZR17OOP_ODEV\bin\Debug\net8.0\PZR17OOP_ODEV.runtimeconfig.json
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Programming\PZR17OOP_ODEV\PZR17OOP_ODEV\bin\Debug\net8.0\PZR17OOP_ODEV.dll
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Programming\PZR17OOP_ODEV\PZR17OOP_ODEV\bin\Debug\net8.0\PZR17OOP_ODEV.pdb
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Programming\PZR17OOP_ODEV\PZR17OOP_ODEV\obj\Debug\net8.0\PZR17OOP_ODEV.dll
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Programming\PZR17OOP_ODEV\PZR17OOP_ODEV\obj\Debug\net8.0\refint\PZR17OOP_ODEV.dll
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Programming\PZR17OOP_ODEV\PZR17OOP_ODEV\obj\Debug\net8.0\PZR17OOP_ODEV.pdb
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Programming\PZR17OOP_ODEV\PZR17OOP_ODEV\obj\Debug\net8.0\PZR17OOP_ODEV.genruntimeconfig.cache
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Programming\PZR17OOP_ODEV\PZR17OOP_ODEV\obj\Debug\net8.0\ref\PZR17OOP_ODEV.dll
